@@ -24,4 +24,7 @@
             <li><a href="w04/blog.html" href="w04/blog.css">W4:blog</a> </li>
             <li><a href="w05/imagegallery.html" href="w05/CSS/photo.css">W5:image</a></li>
         </ul>
-    </body>
+    </body>#123
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzE3NDAzMDg1XX0=
+-->
